@@ -59,7 +59,7 @@ App Download → Signup → Ride Request → Ride Accepted → Ride Completed �
 
 ---
 
-## 📊 Dashboard
+**📊 Dashboard** [Open dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTkyYTBkZTgtYTA1Mi00ZWYxLWFlNjItZDM4ZDY1N2FhMGMyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 <p align="center">
   <img src="assets/funnel.png" width="700"/>
